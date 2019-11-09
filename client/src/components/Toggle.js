@@ -15,8 +15,6 @@ const Toggle = () => {
         >
         <i class="fas fa-adjust"></i>
         </Button>
-        
-
     );
 };
 
@@ -26,10 +24,10 @@ const Button = styled.button`
     width: 2.1rem;
     height: 2rem;
     margin: 0 auto;
+    background-color: white;
     align-items: center;
     border-radius: 8px;
     color: black;
-    background-color: darkgrey;
     border: none;
     }
 `
