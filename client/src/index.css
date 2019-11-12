@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.dark-mode {
+  color: #fff;
+  background-color: #313843;
+}
+
+.dark-mode .navbar {
+  background-color: #1F2022;
+  border: none;
+  display: flex;
+  justify-content: center;
+}
+
+.dark-mode nav {
+  color: #fff;
+  background-color: #313843;
+}
+
+.dark-mode button {
+  color: #fff;
+  background-color: #313843;
+}
+
+
+h1 {
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+th {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.heading-name {
+  display: inline-block;
+  margin-right: 13rem;
+  margin-left: 3rem;
+}
